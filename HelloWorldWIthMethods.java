@@ -1,4 +1,4 @@
-public class HelloWorldWithMethods 
+public class HelloWorldWithStaticMethods 
 {
 
     public static void main(String[] args) 
