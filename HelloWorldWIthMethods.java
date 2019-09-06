@@ -21,6 +21,6 @@ public class HelloWorldWithStaticMethods
     public static void sayGoodbye()
     {
         System.out.println("goodbye");
-    {
+    }
 
 }
